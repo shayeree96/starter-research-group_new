@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shayeree Sarkar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student in Computer Engineering Department
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
